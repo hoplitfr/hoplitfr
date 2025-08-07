@@ -1,5 +1,15 @@
-I come from an SEO background and have independently developed my skills in web design and WordPress, including crafting custom themes and plugins.
+🔍 Ex-SEO turned Web Developer.
 
-Feel free to explore my GitHub repositories to see examples of my work, and don't hesitate to reach out for inquiries, collaborations, or just a friendly chat.
+💻 Self-taught and passionate, I specialize in **WordPress development**, from crafting custom themes to building plugins.
 
-Website : https://www.hoplit.fr/
+🥶 Not a design wizard — I keep things **simple and minimal**. For me, function always comes before flash.
+
+---
+
+### 📂 Explore my work
+
+Feel free to check out my GitHub repositories — you’ll find personal projects, tools, and experiments.
+
+👋 Got a question, idea, or just want to chat?
+
+**Let’s connect →** [https://www.hoplit.fr/](https://www.hoplit.fr/)
